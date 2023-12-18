@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vinna
+ *
+ */
+module VinJavaSessions {
+}
